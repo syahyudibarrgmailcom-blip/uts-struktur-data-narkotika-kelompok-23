@@ -8,10 +8,8 @@ import java.io.IOException;
 public class CSVWriter {
     public static boolean simpanKeCSV(DynamicArray<Putusan> data, String filePath) {
         try (FileWriter writer = new FileWriter(filePath)) {
-            // Tulis Header
             writer.append("Case ID,Nomor Perkara,Pengadilan,Tanggal,Terdakwa,Jenis Narkotika,Vonis (Bulan),Denda (Rp)\n");
 
-            // Tulis Data
             for (int i = 0; i < data.size(); i++) {
                 Putusan p = data.get(i);
                 writer.append(p.getCaseId()).append(",")
