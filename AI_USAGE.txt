@@ -1,0 +1,12 @@
+Tools AI yang Digunakan:  Gemini 
+Cakupan Bantuan: menghasilkan kerangka awal kode, dokumentasi, debugging, dan perancangan arsitektur] * 
+Peran Manusia:  Seluruh output AI telah ditinjau, diuji, dan disesuaikan secara manual oleh pengembang sebelum digabungkan ke repositori utama. 
+ 2. Log Prompt Utama Berikut adalah daftar prompt kunci yang digunakan selama pengembangan: 
+Tujuan | Prompt yang Digunakan | Ringkasan Output & Modifikasi | 
+Pembuatan kerangka kode dari fitur | "Buatkan struktur/kerangka kode boilerplate untuk fitur tambah data, mencari data, filter data aggregasi " | Digunakan sebagai kerangka awal lalu disesuaikan dengan konteks proyek. 
+
+
+
+
+
+
