@@ -11,6 +11,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.time.LocalDate;
+import controller.CSVWriter;
 
 public class MainFrame extends JFrame {
     private PutusanController controller;
@@ -50,7 +51,7 @@ public class MainFrame extends JFrame {
         mainContentPanel.add(panelAnalisis, "Analisis"); 
         
         mainContentPanel.add(createRiwayatPanel(), "Riwayat");
-        mainContentPanel.add(createPlaceholderPanel("Ekspor Data", "Fitur Ekspor CSV akan tampil di sini."), "Ekspor");
+        mainContentPanel.add(createEksporPanel(), "Ekspor");
 
         sidebarPanel = createSidebar();
         add(sidebarPanel, BorderLayout.WEST);
@@ -462,6 +463,48 @@ public class MainFrame extends JFrame {
             public void ancestorRemoved(javax.swing.event.AncestorEvent event) {}
             @Override
             public void ancestorMoved(javax.swing.event.AncestorEvent event) {}
+        });
+
+        return panel;
+    }
+        private JPanel createEksporPanel() {
+        JPanel panel = new JPanel(new GridBagLayout());
+        panel.setBackground(Color.WHITE);
+        panel.setBorder(BorderFactory.createEmptyBorder(20, 30, 20, 30));
+        
+        GridBagConstraints gbc = new GridBagConstraints();
+        gbc.insets = new Insets(10, 10, 10, 10);
+
+        JLabel title = new JLabel("<html><h1>Ekspor Data</h1><p>Simpan semua data putusan ke dalam format CSV.</p></html>");
+        gbc.gridx = 0; gbc.gridy = 0;
+        panel.add(title, gbc);
+
+        JButton btnEkspor = new JButton("Ekspor ke CSV");
+        btnEkspor.setBackground(PRIMARY_COLOR);
+        btnEkspor.setForeground(Color.WHITE);
+        btnEkspor.setFont(new Font("SansSerif", Font.BOLD, 14));
+        
+        gbc.gridy = 1;
+        panel.add(btnEkspor, gbc);
+
+        btnEkspor.addActionListener(e -> {
+            JFileChooser fileChooser = new JFileChooser();
+            fileChooser.setDialogTitle("Simpan File CSV");
+            fileChooser.setSelectedFile(new java.io.File("Data_Putusan_Narkotika.csv"));
+            
+            int userSelection = fileChooser.showSaveDialog(panel);
+            if (userSelection == JFileChooser.APPROVE_OPTION) {
+                String path = fileChooser.getSelectedFile().getAbsolutePath();
+                boolean sukses = CSVWriter.simpanKeCSV(controller.getAllData(), path);
+                
+                if (sukses) {
+                    JOptionPane.showMessageDialog(panel, "Data berhasil diekspor ke:\n" + path, "Sukses", JOptionPane.INFORMATION_MESSAGE);
+                    // Catat log aktivitas
+                    ActivityLogger.log("Mengekspor data putusan ke CSV: " + path);
+                } else {
+                    JOptionPane.showMessageDialog(panel, "Gagal mengekspor data.", "Error", JOptionPane.ERROR_MESSAGE);
+                }
+            }
         });
 
         return panel;
