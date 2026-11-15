@@ -3,7 +3,6 @@ import controller.CSVReader;
 import model.Putusan;
 import struktur.DynamicArray;
 import view.MainFrame;
-
 import javax.swing.*;
 import javax.swing.plaf.FontUIResource;
 import java.awt.*;
