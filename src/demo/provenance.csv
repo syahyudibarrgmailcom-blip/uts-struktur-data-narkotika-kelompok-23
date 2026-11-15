@@ -1,0 +1,804 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+001,caseId,001,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,1,Zaki,Zaki,verified
+001,nomorPerkara,06/Pid.Sus/2018/PN Jkt.Utr,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,1,Zaki,Zaki,verified
+001,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,1,Zaki,Zaki,verified
+001,tanggalPutusan,2018-04-17,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,42,Zaki,Zaki,verified
+001,terdakwaKode,EP,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,1,Zaki,Zaki,verified
+001,jenisNarkotika,Shabu; Ekstasi; Happy Five,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,2,Zaki,Zaki,verified
+001,beratBarangBuktiGram,108.7975,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,2,Zaki,Zaki,verified
+001,pasalDakwaan,"Kesatu Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009; Subsidair: Pasal 112 ayat (2) UU No. 35 Tahun 2009; Kedua: Pasal 62 UU No. 5 Tahun 1997",putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,2,Zaki,Zaki,verified
+001,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 dan Pasal 62 UU No. 5 Tahun 1997,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,39,Zaki,Zaki,verified
+001,tuntutanBulan,144,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,2,Zaki,Zaki,verified
+001,vonisBulan,96,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,40,Zaki,Zaki,verified
+001,dendaRupiah,1000000000,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,40,Zaki,Zaki,verified
+001,barangBukti,"1 kunci apartemen Green Lake Sunter Kamar 35AC; 4 HP (Porsche Design, OPPO, Samsung S8, LG G6); 1 timbangan kecil merk Constan; 1 kemasan Teh Kotak; 1 bungkus warna silver; sisa narkotika & psikotropika",putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,2,Zaki,Zaki,verified
+001,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam memberantas peredaran Narkotika,putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,39,Zaki,Zaki,verified
+001,keadaanMeringankan,"Terdakwa mengakui dengan terus terang perbuatannya; Terdakwa berlaku sopan di persidangan",putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,39,Zaki,Zaki,verified
+001,sourcePages,"1,2,3,4,5,39,40,41,42,43",putusan_6_pid.sus_2018_pn_.jkt_utr_20261110214408.pdf,"1,2,3,4,5,39,40,41,42,43",Zaki,Zaki,verified
+002,caseId,002,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,1,Zaki,Zaki,verified
+002,nomorPerkara,07/Pid.Sus/2017/PN.Jkt.Utr,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,1,Zaki,Zaki,verified
+002,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,1,Zaki,Zaki,verified
+002,tanggalPutusan,2017-03-06,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,13,Zaki,Zaki,verified
+002,terdakwaKode,MAP,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,1,Zaki,Zaki,verified
+002,jenisNarkotika,Ganja (Narkotika Golongan I bentuk tanaman),putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,3,Zaki,Zaki,verified
+002,beratBarangBuktiGram,7.2124,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,2,Zaki,Zaki,verified
+002,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009; Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009",putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,3,Zaki,Zaki,verified
+002,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,12,Zaki,Zaki,verified
+002,tuntutanBulan,78,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,2,Zaki,Zaki,verified
+002,vonisBulan,66,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,13,Zaki,Zaki,verified
+002,dendaRupiah,1000000000,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,13,Zaki,Zaki,verified
+002,barangBukti,"6 bungkus kertas warna coklat berisi ganja; 1 unit HP merk Nokia",putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,3,Zaki,Zaki,verified
+002,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah yang sedang gencar memberantas penyalahgunaan Narkotika,putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,12,Zaki,Zaki,verified
+002,keadaanMeringankan,"Terdakwa mengaku terus terang; Terdakwa belum pernah dihukum; Terdakwa bersikap sopan saat dipersidangan",putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,12,Zaki,Zaki,verified
+002,sourcePages,"1,2,3,4,5,12,13,14",putusan_7_pid.sus_2017_pn_jkt.utr_20261110213403.pdf,"1,2,3,4,5,12,13,14",Zaki,Zaki,verified
+003,caseId,003,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,1,Zaki,Zaki,verified
+003,nomorPerkara,33/Pid.Sus/2019/PN.Jkt.Utr,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,1,Zaki,Zaki,verified
+003,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,1,Zaki,Zaki,verified
+003,tanggalPutusan,2019-05-06,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,22,Zaki,Zaki,verified
+003,terdakwaKode,HSS,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,1,Zaki,Zaki,verified
+003,jenisNarkotika,Shabu (Metamfetamina),putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,3,Zaki,Zaki,verified
+003,beratBarangBuktiGram,219.4133,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,3,Zaki,Zaki,verified
+003,pasalDakwaan,"Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009; Kedua: Pasal 112 ayat (2) UU No. 35 Tahun 2009",putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,2,Zaki,Zaki,verified
+003,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,21,Zaki,Zaki,verified
+003,tuntutanBulan,180,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,3,Zaki,Zaki,verified
+003,vonisBulan,144,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,21,Zaki,Zaki,verified
+003,dendaRupiah,1000000000,putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,21,Zaki,Zaki,verified
+003,barangBukti,"1 bungkus plastik shabu brutto 52 gr (netto 49.2072 gr); 4 bungkus plastik klip shabu brutto 176 gr (netto 170.2061 gr); 3 buah timbangan elektrik (Nankai, Aosai, Camry); 2 pack plastik klip bening; 1 unit HP merk Nokia",putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,3,Zaki,Zaki,verified
+003,keadaanMemberatkan,"Perbuatan Terdakwa tidak mendukung Pemerintah dalam pemberantasan Narkotika; Terdakwa pernah dihukum",putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,20,Zaki,Zaki,verified
+003,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya; Terdakwa berlaku sopan di persidangan; Terdakwa menyesali perbuatannya",putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,20,Zaki,Zaki,verified
+003,sourcePages,"1,2,3,20,21,22",putusan_33_pid.sus_2019_pn_jkt.utr_20261110215439.pdf,"1,2,3,20,21,22",Zaki,Zaki,verified
+004,caseId,004,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,1,Zaki,Zaki,verified
+004,nomorPerkara,38/Pid.Sus/2019/PN Jkt.Utr,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,1,Zaki,Zaki,verified
+004,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,1,Zaki,Zaki,verified
+004,tanggalPutusan,2019-05-20,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,20,Zaki,Zaki,verified
+004,terdakwaKode,HA,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,1,Zaki,Zaki,verified
+004,jenisNarkotika,Shabu (Metamfetamina),putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,3,Zaki,Zaki,verified
+004,beratBarangBuktiGram,0.6989,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,3,Zaki,Zaki,verified
+004,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009; Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009",putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,3,Zaki,Zaki,verified
+004,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,19,Zaki,Zaki,verified
+004,tuntutanBulan,72,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,2,Zaki,Zaki,verified
+004,vonisBulan,72,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,20,Zaki,Zaki,verified
+004,dendaRupiah,800000000,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,20,Zaki,Zaki,verified
+004,barangBukti,"1 plastik klip berisi kristal hijau sabu brutto 0,84 gr (netto 0,6353 gr); 1 plastik klip berisi kristal putih sabu brutto 0,26 gr (netto 0,0636 gr); 1 set alat hisap sabu (bong); 1 unit HP merk Samsung S8 warna hitam",putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,3,Zaki,Zaki,verified
+004,keadaanMemberatkan,Saat ini peredaran gelap narkotika sangat memprihatinkan,putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,19,Zaki,Zaki,verified
+004,keadaanMeringankan,"Terdakwa sopan di persidangan; Terdakwa masih muda dan belum pernah dihukum",putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,19,Zaki,Zaki,verified
+004,sourcePages,"1,2,3,19,20,21",putusan_38_pid.sus_2019_pn_jkt.utr_20261110213607.pdf,"1,2,3,19,20,21",Zaki,Zaki,verified
+005,caseId,005,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,1,Zaki,Zaki,verified
+005,nomorPerkara,80/Pid.Sus/2018/PN. Jkt Utr,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,1,Zaki,Zaki,verified
+005,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,1,Zaki,Zaki,verified
+005,tanggalPutusan,2018-06-04,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,25,Zaki,Zaki,verified
+005,terdakwaKode,RNL,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,1,Zaki,Zaki,verified
+005,jenisNarkotika,Shabu (Metamfetamina),putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,2,Zaki,Zaki,verified
+005,beratBarangBuktiGram,0.8809,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,2,Zaki,Zaki,verified
+005,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009; Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009",putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,3,Zaki,Zaki,verified
+005,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,24,Zaki,Zaki,verified
+005,tuntutanBulan,108,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,2,Zaki,Zaki,verified
+005,vonisBulan,72,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,24,Zaki,Zaki,verified
+005,dendaRupiah,800000000,putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,24,Zaki,Zaki,verified
+005,barangBukti,"3 bungkus plastik klip bening berisi narkotika jenis shabu brutto kurang lebih 1,38 gram (netto 0,8809 gram)",putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,2,Zaki,Zaki,verified
+005,keadaanMemberatkan,"Perbuatan terdakwa tidak mendukung program Pemerintah yang sedang giat-giatnya melakukan pemberantasan narkotika; Terdakwa sudah pernah dihukum",putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,24,Zaki,Zaki,verified
+005,keadaanMeringankan,"Terdakwa sopan di persidangan; Terdakwa mengakui perbuatannya",putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,24,Zaki,Zaki,verified
+005,sourcePages,"1,2,3,24,25",putusan_80_pid.sus_2018_pn_.jkt_utr_20261110213431.pdf,"1,2,3,24,25",Zaki,Zaki,verified
+006,caseId,006,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,1,Zaki,Zaki,verified
+006,nomorPerkara,126/Pid.Sus/2019/PN.Jkt.Utr.,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,1,Zaki,Zaki,verified
+006,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,1,Zaki,Zaki,verified
+006,tanggalPutusan,2019-04-24,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,30,Zaki,Zaki,verified
+006,terdakwaKode,WS,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,1,Zaki,Zaki,verified
+006,jenisNarkotika,Shabu (Metamfetamina),putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,2,Zaki,Zaki,verified
+006,beratBarangBuktiGram,"Shabu: Total berat brutto 7.178,2 gram (terdiri dari 7 bungkus plastik teh merk Cina dengan rincian kode A1 s.d. A7, dengan berat netto keseluruhan uji lab 2,8829 gram dan sisa lab 2,8662 gram)",putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,2,Zaki,Zaki,verified
+006,pasalDakwaan,"Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009; Subsidair: Pasal 112 ayat (2) UU No. 35 Tahun 2009",putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,3,Zaki,Zaki,verified
+006,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,29,Zaki,Zaki,verified
+006,tuntutanBulan,216,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,2,Zaki,Zaki,verified
+006,vonisBulan,216,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,29,Zaki,Zaki,verified
+006,dendaRupiah,1000000000,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,29,Zaki,Zaki,verified
+006,barangBukti,"7 bungkus plastik teh merk Cina berisi shabu (brutto 7.178,2 gram); 1 unit HP Nokia hitam; 1 unit HP Vivo hitam; 1 utas tali plastik oranye; 1 lembar kwitansi check-in Merak Room No. 115 atas nama Syahid alias Capung; 1 unit mobil Suzuki Ertiga warna gold No. Pol. B18841 CZA berikut kunci dan STNK",putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,2,Zaki,Zaki,verified
+006,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah yang sedang gencar memberantas penyalahgunaan Narkotika,putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,27,Zaki,Zaki,verified
+006,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya; Terdakwa bersikap sopan di persidangan",putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,27,Zaki,Zaki,verified
+006,sourcePages,"1,2,29,30",putusan_126_pid.sus_2019_pn_jkt.utr_20261110214543.pdf,"1,2,29,30",Zaki,Zaki,verified
+007,caseId,007,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,1,Zaki,Zaki,verified
+007,nomorPerkara,159/Pid.Sus/2019/PN.Jkt.Utr,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,1,Zaki,Zaki,verified
+007,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,1,Zaki,Zaki,verified
+007,tanggalPutusan,2019-03-26,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,14,Zaki,Zaki,verified
+007,terdakwaKode,MSS,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,1,Zaki,Zaki,verified
+007,jenisNarkotika,Ganja (Narkotika Golongan I bentuk tanaman),putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,2,Zaki,Zaki,verified
+007,beratBarangBuktiGram,39.6660,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,2,Zaki,Zaki,verified
+007,pasalDakwaan,"Pertama: Pasal 114 ayat (1) UU No. 35 Tahun 2009; Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009",putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,3,Zaki,Zaki,verified
+007,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,14,Zaki,Zaki,verified
+007,tuntutanBulan,84,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,2,Zaki,Zaki,verified
+007,vonisBulan,84,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,14,Zaki,Zaki,verified
+007,dendaRupiah,1000000000,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,14,Zaki,Zaki,verified
+007,barangBukti,"28 paket berisi ganja (berat brutto 70,02 gram, netto 39,6660 gram); 1 unit HP Samsung",putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,2,Zaki,Zaki,verified
+007,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah untuk memberantas peredaran gelap narkoba,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,13,Zaki,Zaki,verified
+007,keadaanMeringankan,Terdakwa mengakui perbuatannya sehingga memperlancar jalannya persidangan,putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,13,Zaki,Zaki,verified
+007,sourcePages,"1,2,3,10,11,14",putusan_159_pid.sus_2019_pn_jkt.utr_20261110214653.pdf,"1,2,3,10,11,14",Zaki,Zaki,verified
+008,caseId,008,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,1,Zaki,Zaki,verified
+008,nomorPerkara,165/Pid.Sus/2017/PN JKT.UTR,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,1,Zaki,Zaki,verified
+008,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,1,Zaki,Zaki,verified
+008,tanggalPutusan,2017-04-27,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,13,Zaki,Zaki,verified
+008,terdakwaKode,ABDS,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,1,Zaki,Zaki,verified
+008,jenisNarkotika,Shabu (Metamfetamina),putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,2,Zaki,Zaki,verified
+008,beratBarangBuktiGram,0.0306,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,2,Zaki,Zaki,verified
+008,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009",putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,3,Zaki,Zaki,verified
+008,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,12,Zaki,Zaki,verified
+008,tuntutanBulan,84,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,2,Zaki,Zaki,verified
+008,vonisBulan,78,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,13,Zaki,Zaki,verified
+008,dendaRupiah,1000000000,putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,13,Zaki,Zaki,verified
+008,barangBukti,"1 bungkus plastik klip kecil; 1 buah HP merk Nokia dengan simcard 089525565885; 1 plastik klip kecil berisi shabu (brutto 0,20 gram, netto 0,0306 gram)",putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,2,Zaki,Zaki,verified
+008,keadaanMemberatkan,"Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika; Terdakwa berperan dalam peredaran narkotika di Indonesia",putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,12,Zaki,Zaki,verified
+008,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa sopan dan mengakui perbuatannya",putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,13,Zaki,Zaki,verified
+008,sourcePages,"1,2,11,12,13,14",putusan_165_pid.sus_2017_pn_jkt.utr_20261110215213.pdf,"1,2,11,12,13,14",Zaki,Zaki,verified
+009,caseId,009,putusan_188_pid.sus_2019_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+009,caseId,009,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,1,Zaki,Zaki,verified
+009,nomorPerkara,188/PID.SUS/2019/PN.JKT.UTR,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,1,Zaki,Zaki,verified
+009,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,1,Zaki,Zaki,verified
+009,tanggalPutusan,2019-05-28,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,21,Zaki,Zaki,verified
+009,terdakwaKode,AS-MS,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,1,Zaki,Zaki,verified
+009,jenisNarkotika,Shabu (Metamfetamina),putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,2,Zaki,Zaki,verified
+009,beratBarangBuktiGram,0.0890,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,4,Zaki,Zaki,verified
+009,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009; Kedua: Pasal 112 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009",putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,6,Zaki,Zaki,verified
+009,pasalTerbukti,Pasal 112 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 (diputus sebagai penyalahguna),putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,18,Zaki,Zaki,verified
+009,tuntutanBulan,24,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,3,Zaki,Zaki,verified
+009,vonisBulan,24,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,20,Zaki,Zaki,verified
+009,dendaRupiah,0,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,20,Zaki,Zaki,verified
+009,barangBukti,"1 plastik klip kecil berisi 2 plastik klip kecil shabu (brutto 0,41 gram, netto 0,0890 gram); 1 unit handphone merk Xiaomi warna silver",putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,4,Zaki,Zaki,verified
+009,keadaanMemberatkan,Perbuatan Para Terdakwa bertentangan dengan program pemerintah dalam pemberantasan Narkotika,putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,19,Zaki,Zaki,verified
+009,keadaanMeringankan,"Para Terdakwa adalah para penyalahguna Narkotika; Para Terdakwa belum pernah dihukum; Para Terdakwa mengakui dan menyesali perbuatannya",putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,19,Zaki,Zaki,verified
+009,sourcePages,"1,2,3,4,6,18,19,20,21",putusan_188_pid.sus_2019_pn_jkt.utr_20261110214942.pdf,"1,2,3,4,6,18,19,20,21",Zaki,Zaki,verified
+010,caseId,010,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,1,Zaki,Zaki,verified
+010,nomorPerkara,214/Pid.Sus/2019/PN.Jkt.Utr,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,1,Zaki,Zaki,verified
+010,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,1,Zaki,Zaki,verified
+010,tanggalPutusan,2019-04-15,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,16,Zaki,Zaki,verified
+010,terdakwaKode,FL,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,1,Zaki,Zaki,verified
+010,jenisNarkotika,Shabu (Metamfetamina),putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,2,Zaki,Zaki,verified
+010,beratBarangBuktiGram,11.0424,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,2,Zaki,Zaki,verified
+010,pasalDakwaan,"Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009; Kedua: Pasal 112 ayat (2) UU No. 35 Tahun 2009",putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,3,Zaki,Zaki,verified
+010,pasalTerbukti,Pasal 112 ayat (2) UU No. 35 Tahun 2009,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,15,Zaki,Zaki,verified
+010,tuntutanBulan,120,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,2,Zaki,Zaki,verified
+010,vonisBulan,120,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,16,Zaki,Zaki,verified
+010,dendaRupiah,1000000000,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,16,Zaki,Zaki,verified
+010,barangBukti,"19 paket plastik klip shabu (brutto ± 15,27 gram, netto 11,0424 gram); seperangkat alat hisap shabu; 1 unit HP Samsung putih beserta isinya; 1 buah KTP atas nama Feri; Surat Lepas dari Rutan Kelas I Jakarta Pusat No. W10.PAS.PAS9.PK.01.01.02.REG-/209 atas nama Feri Lesmana bin Panji",putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,2,Zaki,Zaki,verified
+010,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program Pemerintah yang sedang gencar memberantas penyalahgunaan Narkotika,putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,14,Zaki,Zaki,verified
+010,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya; Terdakwa bersikap sopan di persidangan",putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,14,Zaki,Zaki,verified
+010,sourcePages,"1,2,3,4,14,15,16",putusan_214_pid.sus_2019_pn_jkt.utr_20261110213631.pdf,"1,2,3,4,14,15,16",Zaki,Zaki,verified
+011,caseId,011,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,1,Zaki,Zaki,verified
+011,nomorPerkara,230/Pid.Sus/2019/PN Jkt.Utr.,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,1,Zaki,Zaki,verified
+011,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,1,Zaki,Zaki,verified
+011,tanggalPutusan,2019-04-29,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,19,Zaki,Zaki,verified
+011,terdakwaKode,RP-A,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,1,Zaki,Zaki,verified
+011,jenisNarkotika,Shabu (Metamfetamina),putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,2,Zaki,Zaki,verified
+011,beratBarangBuktiGram,0.8346,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,5,Zaki,Zaki,verified
+011,pasalDakwaan,"Kesatu: Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua (alternatif): Pasal 112 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,3,Zaki,Zaki,verified
+011,pasalTerbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,18,Zaki,Zaki,verified
+011,tuntutanBulan,96,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,2,Zaki,Zaki,verified
+011,vonisBulan,78,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,19,Zaki,Zaki,verified
+011,dendaRupiah,1000000000,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,19,Zaki,Zaki,verified
+011,barangBukti,"1 buah timbangan digital merek Pocket Scale warna silver; 1 unit HP merek Samsung J7 Prime warna putih; 1 bungkus rokok merek Djarum Super MLD; 1 bungkus rokok merek Gudang Garam Filter; 1 unit HP merek Andomax warna silver (seluruhnya dirampas untuk dimusnahkan)",putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,2,Zaki,Zaki,verified
+011,keadaanMemberatkan,Perbuatan Para Terdakwa bertentangan dengan program pemerintah tentang pemberantasan Narkoba,putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,17,Zaki,Zaki,verified
+011,keadaanMeringankan,"Para Terdakwa bersikap sopan dan mengaku terus terang sehingga memudahkan jalannya persidangan; Para Terdakwa merasa bersalah dan menyesal serta berjanji tidak akan mengulanginya lagi; Para Terdakwa belum pernah dihukum",putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,17,Zaki,Zaki,verified
+011,sourcePages,"1,2,3,4,5,6,7,12,17,18,19",putusan_230_pid.sus_2019_pn_jkt.utr_20261110215000.pdf,"1,2,3,4,5,6,7,12,17,18,19",Zaki,Zaki,verified
+012,caseId,012,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,1,Zaki,Zaki,verified
+012,nomorPerkara,267/Pid.Sus/2018/PN.Jkt.Utr.,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,1,Zaki,Zaki,verified
+012,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,1,Zaki,Zaki,verified
+012,tanggalPutusan,2018-04-25,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,20,Zaki,Zaki,verified
+012,terdakwaKode,AD,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,1,Zaki,Zaki,verified
+012,jenisNarkotika,Shabu (Metamfetamina),putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,2,Zaki,Zaki,verified
+012,beratBarangBuktiGram,1.2416,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,4,Zaki,Zaki,verified
+012,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,2,Zaki,Zaki,verified
+012,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,19,Zaki,Zaki,verified
+012,tuntutanBulan,84,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,2,Zaki,Zaki,verified
+012,vonisBulan,60,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,19,Zaki,Zaki,verified
+012,dendaRupiah,800000000,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,19,Zaki,Zaki,verified
+012,barangBukti,"1 bungkus besar plastik bening berisi kristal putih (netto 1,0075 gram, sisa lab 0,9078 gram); 2 bungkus kecil plastik bening berisi kristal putih (netto 0,2341 gram, sisa lab 0,1788 gram)",putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,2,Zaki,Zaki,verified
+012,keadaanMemberatkan,Perbuatan terdakwa tidak mengindahkan program Pemerintah yang sedang giat-giatnya memberantas Narkotika,putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,18,Zaki,Zaki,verified
+012,keadaanMeringankan,"Terdakwa mengaku belum pernah dihukum; Terdakwa bersikap sopan dan mengakui terus terang atas perbuatannya dipersidangan sehingga memperlancar jalannya persidangan; Terdakwa menyesal dan tidak mengulangi perbuatannya",putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,18,Zaki,Zaki,verified
+012,sourcePages,"2,3,4,5,6,12,18,19,20",putusan_267_pid.sus_2018_pn_.jkt_utr_20261110215116.pdf,"2,3,4,5,6,12,18,19,20",Zaki,Zaki,verified
+013,caseId,013,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,1,Zaki,Zaki,verified
+013,nomorPerkara,358/Pid.Sus/2019/PN Jkt.Utr,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,1,Zaki,Zaki,verified
+013,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,1,Zaki,Zaki,verified
+013,tanggalPutusan,2019-07-17,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,14,Zaki,Zaki,verified
+013,terdakwaKode,S,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,1,Zaki,Zaki,verified
+013,jenisNarkotika,Shabu (Metamfetamina),putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,2,Zaki,Zaki,verified
+013,beratBarangBuktiGram,0.0808,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,2,Zaki,Zaki,verified
+013,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,3,Zaki,Zaki,verified
+013,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,13,Zaki,Zaki,verified
+013,tuntutanBulan,96,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,2,Zaki,Zaki,verified
+013,vonisBulan,72,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,14,Zaki,Zaki,verified
+013,dendaRupiah,1000000000,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,14,Zaki,Zaki,verified
+013,barangBukti,"1 bungkus kertas berisi plastik klip berisikan kristal putih (netto sebelum lab 0,0808 gram, netto akhir setelah lab 0,0586 gram)",putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,2,Zaki,Zaki,verified
+013,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah tentang pemberantasan Narkotika,putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,12,Zaki,Zaki,verified
+013,keadaanMeringankan,"Terdakwa bersikap sopan dan mengaku terus terang sehingga memudahkan jalannya persidangan; Terdakwa merasa bersalah dan menyesal serta berjanji tidak akan mengulanginya lagi; Terdakwa belum pernah dihukum",putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,12,Zaki,Zaki,verified
+013,sourcePages,"1,2,3,4,13,14,15",putusan_358_pid.sus_2019_pn_jkt.utr_20261110215612.pdf,"1,2,3,4,13,14,15",Zaki,Zaki,verified
+014,caseId,014,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,1,Zaki,Zaki,verified
+014,nomorPerkara,390/Pid.Sus/2019/PN Jkt Utr,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,1,Zaki,Zaki,verified
+014,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,1,Zaki,Zaki,verified
+014,tanggalPutusan,2019-06-18,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,16,Zaki,Zaki,verified
+014,terdakwaKode,M,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,1,Zaki,Zaki,verified
+014,jenisNarkotika,Shabu (Metamfetamina),putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,2,Zaki,Zaki,verified
+014,beratBarangBuktiGram,8.3146,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,2,Zaki,Zaki,verified
+014,pasalDakwaan,"Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika; Kedua (alternatif): Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika",putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,3,Zaki,Zaki,verified
+014,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,15,Zaki,Zaki,verified
+014,tuntutanBulan,120,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,2,Zaki,Zaki,verified
+014,vonisBulan,96,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,15,Zaki,Zaki,verified
+014,dendaRupiah,1000000000,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,15,Zaki,Zaki,verified
+014,barangBukti,"12 paket narkotika jenis shabu (brutto ± 31,08 gram, netto 8,3146 gram); 2 paket plastik klip; 1 buah timbangan digital",putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,2,Zaki,Zaki,verified
+014,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam memberantas Narkotika,putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,14,Zaki,Zaki,verified
+014,keadaanMeringankan,"Terdakwa sopan dipersidangan; Terdakwa mengakui serta menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,14,Zaki,Zaki,verified
+014,sourcePages,"1,2,3,4,5,9,10,11,14,15,16",putusan_390_pid.sus_2019_pn_jkt.utr_20261110213655.pdf,"1,2,3,4,5,9,10,11,14,15,16",Zaki,Zaki,verified
+015,caseId,015,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,1,Zaki,Zaki,verified
+015,nomorPerkara,400/Pid.Sus/2018/PN.Jkt.Utr.,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,1,Zaki,Zaki,verified
+015,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,1,Zaki,Zaki,verified
+015,tanggalPutusan,2018-07-19,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,27,Zaki,Zaki,verified
+015,terdakwaKode,IH,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,1,Zaki,Zaki,verified
+015,jenisNarkotika,Shabu (Metamfetamina),putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,2,Zaki,Zaki,verified
+015,beratBarangBuktiGram,61.4916,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,3,Zaki,Zaki,verified
+015,pasalDakwaan,"Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika",putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,5,Zaki,Zaki,verified
+015,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,26,Zaki,Zaki,verified
+015,tuntutanBulan,144,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,3,Zaki,Zaki,verified
+015,vonisBulan,96,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,26,Zaki,Zaki,verified
+015,dendaRupiah,1000000000,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,26,Zaki,Zaki,verified
+015,barangBukti,"1 plastik klip sedang shabu (brutto 101,97 gr, sisa netto 9,1925 gr); 1 plastik klip sedang shabu (brutto 101,77 gr, sisa netto 9,1635 gr); 1 plastik klip sedang shabu (brutto 25,99 gr, sisa netto 23,4260 gr); 1 plastik klip sedang shabu (brutto 10,98 gr, sisa netto 9,5435 gr); 1 plastik klip sedang shabu (brutto 10,51 gr, sisa netto 9,4082 gr); 1 plastik klip kecil shabu (brutto 1,02 gr, sisa netto 0,7579 gr); 1 buah alat hisap/bong dari botol aqua plastik; 1 unit timbangan digital; 1 bendel plastik klip kosong; 1 unit key BCA; 1 unit HP merek MITO; 1 unit HP merek Nokia; 1 unit HP merek VIVO (seluruhnya dirampas untuk dimusnahkan)",putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,3,Zaki,Zaki,verified
+015,keadaanMemberatkan,Perbuatan Terdakwa tidak sejalan dengan program Pemerintah dalam pemberantasan Narkotika,putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,25,Zaki,Zaki,verified
+015,keadaanMeringankan,"1. Terdakwa belum pernah dihukum; 2. Terdakwa mengakui terus terang sehingga mempermudah jalannya persidangan; 3. Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi lagi",putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,25,Zaki,Zaki,verified
+015,sourcePages,"1,2,3,4,5,25,26,27,28",putusan_400_pid.sus_2018_pn_.jkt_utr_20261110213301.pdf,1,Zaki,Zaki,verified
+015,sourcePages,"2,3,4,6,17,19,22,26",putusan_400_pid.sus_2018_pn_jkt_utr.pdf,"2,3,4,6,17,19,22,26",Zaki,Zaki,verified
+016,caseId,016,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,1,Zaki,Zaki,verified
+016,nomorPerkara,451/Pid.Sus/2019/PN Jkt Utr,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,1,Zaki,Zaki,verified
+016,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,1,Zaki,Zaki,verified
+016,tanggalPutusan,2019-07-04,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,16,Zaki,Zaki,verified
+016,terdakwaKode,SR-HMM,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,1,Zaki,Zaki,verified
+016,jenisNarkotika,Shabu (Metamfetamina),putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,2,Zaki,Zaki,verified
+016,beratBarangBuktiGram,2.8909,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,2,Zaki,Zaki,verified
+016,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua (alternatif): Pasal 112 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,3,Zaki,Zaki,verified
+016,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,15,Zaki,Zaki,verified
+016,tuntutanBulan,84,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,2,Zaki,Zaki,verified
+016,vonisBulan,72,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,16,Zaki,Zaki,verified
+016,dendaRupiah,1000000000,putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,16,Zaki,Zaki,verified
+016,barangBukti,"2 paket sabu-sabu (netto total 2,8909 gram); 1 HP Samsung Galaxy hitam; 1 HP Nokia putih; 1 lembar alumunium foil; 1 bungkus rokok Surya Pro; 1 HP iPhone hitam (dirampas untuk dimusnahkan); 1 unit sepeda motor Yamaha Mio Soul hitam merah hitam No Polisi B 6693 KVB (dirampas untuk Negara)",putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,2,Zaki,Zaki,verified
+016,keadaanMemberatkan,"Sifat perbuatan Para Terdakwa itu sendiri; Perbuatan Para Terdakwa tidak mendukung pemerintah dalam memberantas obat-obatan terlarang",putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,15,Zaki,Zaki,verified
+016,keadaanMeringankan,"Para Terdakwa selama persidangan berlaku sopan sehingga memperlancar jalan sidang; Para Terdakwa mengakui dengan terus terang perbuatannya dan menyesalinya; Para Terdakwa berjanji tidak akan mengulangi perbuatannya lagi",putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,15,Zaki,Zaki,verified
+016,sourcePages,"1,2,3,4,5,11,15,16",putusan_451_pid.sus_2019_pn_jkt.utr_20261110215424.pdf,"1,2,3,4,5,11,15,16",Zaki,Zaki,verified
+017,caseId,017,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,1,Zaki,Zaki,verified
+017,nomorPerkara,553/Pid.Sus/2013/PN.Jkt.Ut,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,1,Zaki,Zaki,verified
+017,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,1,Zaki,Zaki,verified
+017,tanggalPutusan,2013-07-31,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,8,Zaki,Zaki,verified
+017,terdakwaKode,DPEP,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,1,Zaki,Zaki,verified
+017,jenisNarkotika,Shabu (Metamfetamina),putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,2,Zaki,Zaki,verified
+017,beratBarangBuktiGram,0.3444,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,2,Zaki,Zaki,verified
+017,pasalDakwaan,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,2,Zaki,Zaki,verified
+017,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,7,Zaki,Zaki,verified
+017,tuntutanBulan,84,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,2,Zaki,Zaki,verified
+017,vonisBulan,54,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,8,Zaki,Zaki,verified
+017,dendaRupiah,800000000,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,8,Zaki,Zaki,verified
+017,barangBukti,"1 bungkus plastik klip kecil berisi shabu (brutto 0,55 gram, netto 0,3444 gram, sisa lab 0,2904 gram)",putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,2,Zaki,Zaki,verified
+017,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung Pemerintah dalam memberantas narkotika,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,7,Zaki,Zaki,verified
+017,keadaanMeringankan,Terdakwa mengakui dengan terus terang perbuatannya dan sopan dipersidangan,putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,7,Zaki,Zaki,verified
+017,sourcePages,"1,2,3,7,8",putusan_553_pid.sus_2013_pn.jkt.ut._20261110213339.pdf,"1,2,3,7,8",Zaki,Zaki,verified
+018,caseId,018,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,1,Zaki,Zaki,verified
+018,nomorPerkara,631/Pid.Sus/2019/PN Jkt Utr,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,1,Zaki,Zaki,verified
+018,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,1,Zaki,Zaki,verified
+018,tanggalPutusan,2019-07-16,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,17,Zaki,Zaki,verified
+018,terdakwaKode,S,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,1,Zaki,Zaki,verified
+018,jenisNarkotika,Shabu (Metamfetamina),putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,2,Zaki,Zaki,verified
+018,beratBarangBuktiGram,1.9546,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,2,Zaki,Zaki,verified
+018,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua (alternatif): Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,3,Zaki,Zaki,verified
+018,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,16,Zaki,Zaki,verified
+018,tuntutanBulan,102,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,2,Zaki,Zaki,verified
+018,vonisBulan,84,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,17,Zaki,Zaki,verified
+018,dendaRupiah,1000000000,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,17,Zaki,Zaki,verified
+018,barangBukti,"1 bekas bungkus rokok Gudang Garam Filter berisi 2 bungkus plastik klip shabu (brutto 2,32 gram, netto 1,9546 gram, sisa lab 1,8939 gram); 1 unit sepeda motor Honda Vario hitam No Polisi B-4572-BNA (dirampas untuk negara)",putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,2,Zaki,Zaki,verified
+018,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program Pemerintah dalam pemberantasan Narkotika,putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,15,Zaki,Zaki,verified
+018,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa menyesal dan berjanji tidak akan mengulangi perbuatannya; Terdakwa berlaku sopan dan tidak mempersulit jalannya persidangan; Terdakwa mengakui dengan terus terang perbuatannya",putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,15,Zaki,Zaki,verified
+018,sourcePages,"1,2,3,4,5,6,11,15,16,17",putusan_631_pid.sus_2019_pn_jkt.utr_20261110215302.pdf,"1,2,3,4,5,6,11,15,16,17",Zaki,Zaki,verified
+019,caseId,019,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,1,Zaki,Zaki,verified
+019,nomorPerkara,646/Pid.Sus/2018/PN Jkt Utr,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,1,Zaki,Zaki,verified
+019,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,1,Zaki,Zaki,verified
+019,tanggalPutusan,2018-09-05,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,12,Zaki,Zaki,verified
+019,terdakwaKode,NS,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,1,Zaki,Zaki,verified
+019,jenisNarkotika,Shabu (Metamfetamina),putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,2,Zaki,Zaki,verified
+019,beratBarangBuktiGram,0.1279,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,2,Zaki,Zaki,verified
+019,pasalDakwaan,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (dakwaan tunggal),putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,3,Zaki,Zaki,verified
+019,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,11,Zaki,Zaki,verified
+019,tuntutanBulan,84,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,2,Zaki,Zaki,verified
+019,vonisBulan,60,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,12,Zaki,Zaki,verified
+019,dendaRupiah,800000000,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,12,Zaki,Zaki,verified
+019,barangBukti,"1 bungkus plastik bening berisi kristal (brutto 0,23 gram, netto 0,1279 gram); 1 potong celana panjang merk Cardinal warna hitam; 1 bungkus rokok Sampoerna Mild (seluruhnya dirampas untuk dimusnahkan)",putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,2,Zaki,Zaki,verified
+019,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam memberantas narkotika,putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,11,Zaki,Zaki,verified
+019,keadaanMeringankan,"Terdakwa sopan dipersidangan dan mengakui serta menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,11,Zaki,Zaki,verified
+019,sourcePages,"1,2,3,4,5,6,7,10,11,12",putusan_646_pid.sus_2018_pn_.jkt_utr_20261110215153.pdf,"1,2,3,4,5,6,7,10,11,12",Zaki,Zaki,verified
+020,caseId,020,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,1,Zaki,Zaki,verified
+020,nomorPerkara,761/Pid.Sus/2019/PN Jkt.Utr,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,1,Zaki,Zaki,verified
+020,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,1,Zaki,Zaki,verified
+020,tanggalPutusan,2019-09-19,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,17,Zaki,Zaki,verified
+020,terdakwaKode,M,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,1,Zaki,Zaki,verified
+020,jenisNarkotika,Shabu (Metamfetamina),putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,2,Zaki,Zaki,verified
+020,beratBarangBuktiGram,0.3495,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,2,Zaki,Zaki,verified
+020,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua (alternatif): Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,3,Zaki,Zaki,verified
+020,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,16,Zaki,Zaki,verified
+020,tuntutanBulan,96,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,2,Zaki,Zaki,verified
+020,vonisBulan,54,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,16,Zaki,Zaki,verified
+020,dendaRupiah,800000000,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,16,Zaki,Zaki,verified
+020,barangBukti,"1 bungkus plastik klip kecil berisi shabu (brutto 0,48 gram, netto 0,3495 gram, sisa Labkrim 0,3397 gram)",putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,2,Zaki,Zaki,verified
+020,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam upaya memberantas penyalahgunaan Narkotika,putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,15,Zaki,Zaki,verified
+020,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya dan menyesali perbuatannya serta berjanji untuk tidak mengulangi lagi di masa yang akan datang; Terdakwa mempunyai tanggungan keluarga seorang istri; Terdakwa belum pernah dihukum",putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,15,Zaki,Zaki,verified
+020,sourcePages,"1,2,3,4,5,6,8,14,15,16",putusan_761_pid.sus_2019_pn_jkt.utr_20261110212735.pdf,"1,2,3,4,5,6,8,14,15,16",Zaki,Zaki,verified
+021,caseId,021,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,1,Zaki,Zaki,verified
+021,nomorPerkara,839/Pid.Sus/2019/PN.Jkt.Utr,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,1,Zaki,Zaki,verified
+021,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,1,Zaki,Zaki,verified
+021,tanggalPutusan,2019-09-11,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,15,Zaki,Zaki,verified
+021,terdakwaKode,AH,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,1,Zaki,Zaki,verified
+021,jenisNarkotika,Shabu (Metamfetamina),putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,2,Zaki,Zaki,verified
+021,beratBarangBuktiGram,17.1522,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,2,Zaki,Zaki,verified
+021,pasalDakwaan,"Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika",putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,3,Zaki,Zaki,verified
+021,pasalTerbukti,Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,14,Zaki,Zaki,verified
+021,tuntutanBulan,90,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,2,Zaki,Zaki,verified
+021,vonisBulan,60,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,14,Zaki,Zaki,verified
+021,dendaRupiah,800000000,putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,14,Zaki,Zaki,verified
+021,barangBukti,"1 bungkus plastik klip berisi kristal putih (netto 11,2923 gram); 6 bungkus plastik klip berisi kristal putih (netto total 5,1715 gram); 8 bungkus plastik klip berisi kristal putih (netto total 0,6884 gram); 1 unit HP merek OPPO warna merah berikut simcard; 1 unit timbangan; 1 buah kotak brankas buku warna merah",putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,2,Zaki,Zaki,verified
+021,keadaanMemberatkan,"Perbuatan terdakwa tidak mendukung program pemerintah untuk memerangi peredaran Narkoba; Perbuatan terdakwa merusak pembinaan generasi muda",putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,14,Zaki,Zaki,verified
+021,keadaanMeringankan,"Terdakwa tidak berbelit-belit dalam memberikan keterangan; Terdakwa mengaku terus terang; Terdakwa menyesali perbuatannya",putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,14,Zaki,Zaki,verified
+021,sourcePages,"1,2,3,4,5,11,12,14,15",putusan_839_pid.sus_2019_pn_jkt.utr_20261110214235.pdf,"1,2,3,4,5,11,12,14,15",Zaki,Zaki,verified
+022,caseId,022,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,1,Zaki,Zaki,verified
+022,nomorPerkara,864/Pid.Sus/2018/PN.Jkt.Utr,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,1,Zaki,Zaki,verified
+022,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,1,Zaki,Zaki,verified
+022,tanggalPutusan,2018-08-24,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,18,Zaki,Zaki,verified
+022,terdakwaKode,ES,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,1,Zaki,Zaki,verified
+022,jenisNarkotika,Shabu (Metamfetamina),putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,2,Zaki,Zaki,verified
+022,beratBarangBuktiGram,211.38,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,2,Zaki,Zaki,verified
+022,pasalDakwaan,"Pertama (alternatif): Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua (alternatif): Pasal 112 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,3,Zaki,Zaki,verified
+022,pasalTerbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,17,Zaki,Zaki,verified
+022,tuntutanBulan,156,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,2,Zaki,Zaki,verified
+022,vonisBulan,132,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,18,Zaki,Zaki,verified
+022,dendaRupiah,1000000000,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,18,Zaki,Zaki,verified
+022,barangBukti,"1 unit HP merek XIAOMI warna hitam (dirampas untuk dimusnahkan); 1 plastic klip sabu (brutto 10,87 gram); 1 unit HP Samsung putih; 1 unit HP Samsung hitam; 1 unit HP Samsung J7 hitam; 1 unit timbangan digital silver (digunakan dalam perkara lain atas nama Denny Lesmana); 5 plastic klip sabu (brutto 200,51 gram); 1 unit HP merek ASUS warna hitam (digunakan dalam perkara lain atas nama Ahmad Firdaus)",putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,2,Zaki,Zaki,verified
+022,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas peredaran gelap narkoba,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,17,Zaki,Zaki,verified
+022,keadaanMeringankan,Terdakwa mengakui perbuatannya sehingga memperlancar jalannya persidangan,putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,17,Zaki,Zaki,verified
+022,sourcePages,"1,2,3,4,5,6,7,8,14,17,18",putusan_864_pid.sus_2018_pn_.jkt_utr_20261110213456.pdf,"1,2,3,4,5,6,7,8,14,17,18",Zaki,Zaki,verified
+023,caseId,023,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,1,Zaki,Zaki,verified
+023,nomorPerkara,868/Pid.Sus/2018/PN Jkt Utr,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,1,Zaki,Zaki,verified
+023,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,1,Zaki,Zaki,verified
+023,tanggalPutusan,2018-10-03,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,15,Zaki,Zaki,verified
+023,terdakwaKode,S,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,1,Zaki,Zaki,verified
+023,jenisNarkotika,Shabu (Metamfetamina),putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,2,Zaki,Zaki,verified
+023,beratBarangBuktiGram,0.1262,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,2,Zaki,Zaki,verified
+023,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua (alternatif): Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,3,Zaki,Zaki,verified
+023,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,14,Zaki,Zaki,verified
+023,tuntutanBulan,84,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,2,Zaki,Zaki,verified
+023,vonisBulan,66,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,14,Zaki,Zaki,verified
+023,dendaRupiah,1000000000,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,14,Zaki,Zaki,verified
+023,barangBukti,"4 plastik klip berisikan narkotika jenis sabu dengan berat brutto 1,23 gram di dalam dompet warna merah (berat netto seluruhnya 0,1262 gram); 1 unit Handphone merk Polytron milik terdakwa",putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,2,Zaki,Zaki,verified
+023,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam memberantas narkotika,putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,13,Zaki,Zaki,verified
+023,keadaanMeringankan,"Terdakwa sopan dipersidangan dan mengakui serta menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,13,Zaki,Zaki,verified
+023,sourcePages,"1,2,3,4,5,6,7,8,9,13,14,15",putusan_868_pid.sus_2018_pn_.jkt_utr_20261110214043.pdf,1,Zaki,Zaki,verified
+024,caseId,024,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,1,Zaki,Zaki,verified
+024,nomorPerkara,892/Pid.Sus/2019/PN Jkt.Utr,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,1,Zaki,Zaki,verified
+024,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,1,Zaki,Zaki,verified
+024,tanggalPutusan,2019-09-26,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,17,Zaki,Zaki,verified
+024,terdakwaKode,RS,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,1,Zaki,Zaki,verified
+024,jenisNarkotika,Shabu (Metamfetamina),putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,2,Zaki,Zaki,verified
+024,beratBarangBuktiGram,5.1764,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,2,Zaki,Zaki,verified
+024,pasalDakwaan,"Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair (alternatif): Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika",putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,3,Zaki,Zaki,verified
+024,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,16,Zaki,Zaki,verified
+024,tuntutanBulan,114,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,2,Zaki,Zaki,verified
+024,vonisBulan,96,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,17,Zaki,Zaki,verified
+024,dendaRupiah,1000000000,putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,17,Zaki,Zaki,verified
+024,barangBukti,"1 bungkus plastik klip berisi metamfetamina (netto 4,7305 gram); 1 bungkus plastik klip berisi metamfetamina (netto 0,3363 gram); 1 buah handphone merek Oppo berikut simcard; 1 buah timbangan digital (seluruhnya dirampas untuk dimusnahkan)",putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,2,Zaki,Zaki,verified
+024,keadaanMemberatkan,"Terdakwa tidak mendukung Program Pemerintah yang sedang giat-giatnya memberantas peredaran dan penyalahgunaan Narkotika; Perbuatan terdakwa sangat meresahkan masyarakat dan sangat merusak masa depan para Generasi Muda",putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,16,Zaki,Zaki,verified
+024,keadaanMeringankan,"Terdakwa bersikap sopan selama persidangan; Terdakwa mengakui dan menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,"1,Zaki,Zaki,verified
+024,sourcePages,"1,2,3,4,5,6,12,16,17",putusan_892_pid.sus_2019_pn_jkt.utr_20261110214254.pdf,"1,2,3,4,5,6,12,16,17",Zaki,Zaki,verified
+025,caseId,025,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,1,Zaki,Zaki,verified
+025,nomorPerkara,937/Pid.Sus/2018/PN.Jkt.Utr,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,1,Zaki,Zaki,verified
+025,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,1,Zaki,Zaki,verified
+025,tanggalPutusan,2018-10-31,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,13,Zaki,Zaki,verified
+025,terdakwaKode,SIT,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,1,Zaki,Zaki,verified
+025,jenisNarkotika,Shabu (Metamfetamina),putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,2,Zaki,Zaki,verified
+025,beratBarangBuktiGram,0.0626,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,2,Zaki,Zaki,verified
+025,pasalDakwaan,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (dakwaan tunggal / alternatif),putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,3,Zaki,Zaki,verified
+025,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,12,Zaki,Zaki,verified
+025,tuntutanBulan,72,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,2,Zaki,Zaki,verified
+025,vonisBulan,48,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,12,Zaki,Zaki,verified
+025,dendaRupiah,800000000,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,12,Zaki,Zaki,verified
+025,barangBukti,"1 bungkus kecil plastik klip bening berisi narkotika jenis kristal (sabu) dengan berat brutto 0,28 gram (berat netto seluruhnya 0,0626 gram)",putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,2,Zaki,Zaki,verified
+025,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya memberantas peredaran narkotika,putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,12,Zaki,Zaki,verified
+025,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa sopan dipersidangan dan menyesali perbuatannya; Terdakwa berjanji tidak mengulangi kejahatannya; Terdakwa mempunyai tanggungan seorang istri dan 2 (dua) orang anak yang masih kecil",putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,12,Zaki,Zaki,verified
+025,sourcePages,"1,2,3,4,11,12,13",putusan_937_pid.sus_2018_pn_jkt.utr_20261110213743.pdf,"1,2,3,4,11,12,13",Zaki,Zaki,verified
+026,caseId,026,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,1,Zaki,Zaki,verified
+026,nomorPerkara,1003/PID.SUS/2019/PN.JKT.UTR,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,1,Zaki,Zaki,verified
+026,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,1,Zaki,Zaki,verified
+026,tanggalPutusan,2019-12-16,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,22,Zaki,Zaki,verified
+026,terdakwaKode,N,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,1,Zaki,Zaki,verified
+026,jenisNarkotika,Shabu (Metamfetamina),putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,2,Zaki,Zaki,verified
+026,beratBarangBuktiGram,2540.8,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,3,Zaki,Zaki,verified
+026,pasalDakwaan,"Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika",putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,3,Zaki,Zaki,verified
+026,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,21,Zaki,Zaki,verified
+026,tuntutanBulan,228,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,2,Zaki,Zaki,verified
+026,vonisBulan,216,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,21,Zaki,Zaki,verified
+026,dendaRupiah,1000000000,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,21,Zaki,Zaki,verified
+026,barangBukti,"1 tas kain putih bertuliskan Toyota; 8 bungkus plastik klip berisi kristal shabu (total netto 2.540,8 gram); 1 timbangan digital merk Constant; 1 timbangan digital warna hitam; 1 handphone Advand hitam + simcard; 1 handphone OPPO hitam + simcard; 1 handphone Advand hitam + simcard; 1 buah bong; 2 buku rekapan penjualan; 1 ATM BNI nomor 5371760240308808; 1 bungkus plastik klip",putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,2,Zaki,Zaki,verified
+026,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah yang gencar memberantas peredaran gelap Narkotika,putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,20,Zaki,Zaki,verified
+026,keadaanMeringankan,"Terdakwa mengakui perbuatannya, menyesali jalannya persidangan dan berjanji untuk tidak mengulanginya lagi; Terdakwa bersikap sopan di persidangan",putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,21,Zaki,Zaki,verified
+026,sourcePages,"1,2,3,4,5,14,19,20,21,22",putusan_1003_pid.sus_2019_pn_jkt.utr_20261110214815.pdf,"1,2,3,4,5,14,19,20,21,22",Zaki,Zaki,verified
+027,caseId,027,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,1,Zaki,Zaki,verified
+027,nomorPerkara,1005/Pid.Sus/2018/PN Jkt.Utr,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,1,Zaki,Zaki,verified
+027,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,1,Zaki,Zaki,verified
+027,tanggalPutusan,2018-12-13,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,9,Zaki,Zaki,verified
+027,terdakwaKode,BH,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,1,Zaki,Zaki,verified
+027,jenisNarkotika,Shabu (Metamfetamina),putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,2,Zaki,Zaki,verified
+027,beratBarangBuktiGram,0.8685,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,2,Zaki,Zaki,verified
+027,pasalDakwaan,Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif),putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,2,Zaki,Zaki,verified
+027,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,8,Zaki,Zaki,verified
+027,tuntutanBulan,96,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,2,Zaki,Zaki,verified
+027,vonisBulan,78,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,9,Zaki,Zaki,verified
+027,dendaRupiah,1000000000,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,8,Zaki,Zaki,verified
+027,barangBukti,"7 plastik klip kecil berisi shabu (brutto 2,25 gram, netto total 0,8685 gram) disimpan dalam korek api gas; 1 unit handphone Samsung lipat warna putih",putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,2,Zaki,Zaki,verified
+027,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program Pemerintah dalam memberantas narkotika,putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,8,Zaki,Zaki,verified
+027,keadaanMeringankan,"Terdakwa sopan dipersidangan dan mengakui serta menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,8,Zaki,Zaki,verified
+027,sourcePages,"1,2,3,4,5,6,7,8,9",putusan_1005_pid.sus_2018_pn_jkt.utr_20261110213543.pdf,"1,2,3,4,5,6,7,8,9",Zaki,Zaki,verified
+028,caseId,028,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,1,Zaki,Zaki,verified
+028,nomorPerkara,1006/Pid.Sus/2019/PN Jkt.Utr,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,1,Zaki,Zaki,verified
+028,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,1,Zaki,Zaki,verified
+028,tanggalPutusan,2019-10-02,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,13,Zaki,Zaki,verified
+028,terdakwaKode,TST,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,1,Zaki,Zaki,verified
+028,jenisNarkotika,Shabu (Metamfetamina),putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,2,Zaki,Zaki,verified
+028,beratBarangBuktiGram,3.46,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,2,Zaki,Zaki,verified
+028,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,3,Zaki,Zaki,verified
+028,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,12,Zaki,Zaki,verified
+028,tuntutanBulan,96,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,2,Zaki,Zaki,verified
+028,vonisBulan,84,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,12,Zaki,Zaki,verified
+028,dendaRupiah,1000000000,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,12,Zaki,Zaki,verified
+028,barangBukti,"1 bungkus rokok Gudang Garam Filter, tissue, 1 unit HP Merk Blackberry warna hitam",putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,2,Zaki,Zaki,verified
+028,keadaanMemberatkan,Perbuatan Terdakwa dilakukan pada saat Pemerintah sedang giat-giatnya melaksanakan pemberantasan penyalahgunaan Narkotika,putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,11,Zaki,Zaki,verified
+028,keadaanMeringankan,"Terdakwa bersikap sopan dipersidangan dan mengakui terus terang perbuatannya; Terdakwa menyatakan penyesalannya",putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,11,Zaki,Zaki,verified
+028,sourcePages,"1,2,3,4,5,6,7,8,9,10,11,12,13",putusan_1006_pid.sus_2019_pn_jkt.utr_20261110214520.pdf,1,Zaki,Zaki,verified
+029,caseId,029,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,1,Zaki,Zaki,verified
+029,nomorPerkara,1071/Pid.Sus/2019/PN. JKT.UTR,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,1,Zaki,Zaki,verified
+029,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,1,Zaki,Zaki,verified
+029,tanggalPutusan,2019-10-29,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,13,Zaki,Zaki,verified
+029,terdakwaKode,AH,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,1,Zaki,Zaki,verified
+029,jenisNarkotika,Shabu (Metamfetamina),putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,2,Zaki,Zaki,verified
+029,beratBarangBuktiGram,9.4810,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,3,Zaki,Zaki,verified
+029,pasalDakwaan,"Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika",putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,2,Zaki,Zaki,verified
+029,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,12,Zaki,Zaki,verified
+029,tuntutanBulan,114,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,2,Zaki,Zaki,verified
+029,vonisBulan,96,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,12,Zaki,Zaki,verified
+029,dendaRupiah,1000000000,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,12,Zaki,Zaki,verified
+029,barangBukti,"1 bungkus bekas rokok Sampoerna Mild, 1 bungkus kertas Menyan 10, 1 bungkus plastik klip berisi kristal putih (netto 9,4810 gram), 1 unit HP Merk Iris warna hitam dengan kartu Perdana Tri dan Indosat",putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,2,Zaki,Zaki,verified
+029,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung Pemerintah dalam memberantas Narkotika,putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,11,Zaki,Zaki,verified
+029,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa bersikap sopan didepan persidangan",putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,11,Zaki,Zaki,verified
+029,sourcePages,"1,2,3,4,5,6,7,11,12,13",putusan_1071_pid.sus_2019_pn_jkt.utr_20261110215411.pdf,"1,2,3,4,5,6,7,11,12,13",Zaki,Zaki,verified
+030,caseId,030,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,1,Zaki,Zaki,verified
+030,nomorPerkara,1158/Pid.Sus/2017/PN.Jkt.Utr,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,1,Zaki,Zaki,verified
+030,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,1,Zaki,Zaki,verified
+030,tanggalPutusan,2017-11-21,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,16,Zaki,Zaki,verified
+030,terdakwaKode,C,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,1,Zaki,Zaki,verified
+030,jenisNarkotika,Shabu (Metamfetamina),putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,2,Zaki,Zaki,verified
+030,beratBarangBuktiGram,0.2102,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,2,Zaki,Zaki,verified
+030,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,2,Zaki,Zaki,verified
+030,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,15,Zaki,Zaki,verified
+030,tuntutanBulan,84,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,2,Zaki,Zaki,verified
+030,vonisBulan,72,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,16,Zaki,Zaki,verified
+030,dendaRupiah,1000000000,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,16,Zaki,Zaki,verified
+030,barangBukti,"1 bekas bungkus Kuku Bima",putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,2,Zaki,Zaki,verified
+030,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,14,Zaki,Zaki,verified
+030,keadaanMeringankan,"Terdakwa berlaku sopan di persidangan; Terdakwa menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,14,Zaki,Zaki,verified
+030,sourcePages,"1,2,5,14,15,16",putusan_1158_pid.sus_2017_pn_.jkt_utr_20261110215247.pdf,"1,2,5,14,15,16",Zaki,Zaki,verified
+031,caseId,031,putusan_1147_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+031,caseId,031,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,1,Zaki,Zaki,verified
+031,nomorPerkara,1147/Pid.Sus/2018/PN Jkt.Utr,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,1,Zaki,Zaki,verified
+031,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,1,Zaki,Zaki,verified
+031,tanggalPutusan,2019-01-16,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,15,Zaki,Zaki,verified
+031,terdakwaKode,CO,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,1,Zaki,Zaki,verified
+031,jenisNarkotika,Shabu (Metamfetamina),putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,2,Zaki,Zaki,verified
+031,beratBarangBuktiGram,0.0053,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,2,Zaki,Zaki,verified
+031,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,3,Zaki,Zaki,verified
+031,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,14,Zaki,Zaki,verified
+031,tuntutanBulan,72,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,2,Zaki,Zaki,verified
+031,vonisBulan,30,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,15,Zaki,Zaki,verified
+031,dendaRupiah,800000000,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,15,Zaki,Zaki,verified
+031,barangBukti,"1 plastik klip berisi shabu (brutto 0,13 gram, netto 0,0053 gram, sisa labkrim 0,0029 gram)",putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,2,Zaki,Zaki,verified
+031,keadaanMemberatkan,Saat ini penyalahgunaan Narkotika sudah sangat meresahkan masyarakat,putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,14,Zaki,Zaki,verified
+031,keadaanMeringankan,"Terdakwa sopan dipersidangan; Terdakwa belum pernah dihukum; Terdakwa mengakui terus terang perbuatannya",putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,14,Zaki,Zaki,verified
+031,sourcePages,"1,2,3,4,14,15",putusan_1147_pid.sus_2018_pn_jkt.utr_20261110213246.pdf,"1,2,3,4,14,15",Zaki,Zaki,verified
+032,caseId,032,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,1,Zaki,Zaki,verified
+032,nomorPerkara,1134/Pid.Sus/2017/PN.Jkt.Utr,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,1,Zaki,Zaki,verified
+032,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,1,Zaki,Zaki,verified
+032,tanggalPutusan,2017-11-28,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,14,Zaki,Zaki,verified
+032,terdakwaKode,S,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,1,Zaki,Zaki,verified
+032,jenisNarkotika,Shabu (Metamfetamina),putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,2,Zaki,Zaki,verified
+032,beratBarangBuktiGram,0.1201,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,2,Zaki,Zaki,verified
+032,pasalDakwaan,"Kesatu: Pasal 112 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,3,Zaki,Zaki,verified
+032,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,13,Zaki,Zaki,verified
+032,tuntutanBulan,42,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,2,Zaki,Zaki,verified
+032,vonisBulan,30,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,14,Zaki,Zaki,verified
+032,dendaRupiah,0,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,14,Zaki,Zaki,verified
+032,barangBukti,"1 lembar uang Rp. 1.000,- (seribu rupiah) sebagai tempat penyimpanan",putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,2,Zaki,Zaki,verified
+032,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan narkoba dalam segala bentuknya,putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,13,Zaki,Zaki,verified
+032,keadaanMeringankan,"Terdakwa berlaku sopan di persidangan; Terdakwa berterus terang sehingga tidak menyulitkan pemeriksaan; Terdakwa menyesali perbuatannya dan berjanji tidak akan berbuat lagi",putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,13,Zaki,Zaki,verified
+032,sourcePages,"1,2,3,4,14,15",putusan_1134_pid.sus_2017_pn_.jkt_utr_20261110213519.pdf,"1,2,3,4,14,15",Zaki,Zaki,verified
+033,caseId,033,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,1,Zaki,Zaki,verified
+033,nomorPerkara,1076/Pid.Sus/2018/PN.Jkt.Utr,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,1,Zaki,Zaki,verified
+033,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,1,Zaki,Zaki,verified
+033,tanggalPutusan,2019-01-15,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,13,Zaki,Zaki,verified
+033,terdakwaKode,R,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,1,Zaki,Zaki,verified
+033,jenisNarkotika,Shabu (Metamfetamina),putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,2,Zaki,Zaki,verified
+033,beratBarangBuktiGram,0.0462,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,4,Zaki,Zaki,verified
+033,pasalDakwaan,Tunggal: Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,3,Zaki,Zaki,verified
+033,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,12,Zaki,Zaki,verified
+033,tuntutanBulan,84,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,2,Zaki,Zaki,verified
+033,vonisBulan,60,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,13,Zaki,Zaki,verified
+033,dendaRupiah,1000000000,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,13,Zaki,Zaki,verified
+033,barangBukti,"1 buah handphone merek Mito",putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,2,Zaki,Zaki,verified
+033,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah untuk memerangi dan memberantas peredaran maupun penyalahgunaan narkotika,putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,12,Zaki,Zaki,verified
+033,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa menyesali perbuatannya",putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,12,Zaki,Zaki,verified
+033,sourcePages,"1,2,3,4,12,13",putusan_1076_pid.sus_2018_pn_jkt.utr_20261110215015.pdf,"1,2,3,4,12,13",Zaki,Zaki,verified
+034,caseId,034,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,1,Zaki,Zaki,verified
+034,nomorPerkara,1275/Pid.Sus/2017/PN Jkt. Utr,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,1,Zaki,Zaki,verified
+034,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,1,Zaki,Zaki,verified
+034,tanggalPutusan,2018-01-08,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,25,Zaki,Zaki,verified
+034,terdakwaKode,OHA,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,1,Zaki,Zaki,verified
+034,jenisNarkotika,Shabu (Metamfetamina),putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,2,Zaki,Zaki,verified
+034,beratBarangBuktiGram,35.5373,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,3,Zaki,Zaki,verified
+034,pasalDakwaan,"Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,3,Zaki,Zaki,verified
+034,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,24,Zaki,Zaki,verified
+034,tuntutanBulan,156,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,2,Zaki,Zaki,verified
+034,vonisBulan,120,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,24,Zaki,Zaki,verified
+034,dendaRupiah,1000000000,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,24,Zaki,Zaki,verified
+034,barangBukti,"Uang tunai Rp650.000; 1 unit Handphone merk Mito; 1 unit Handphone merk Asus; 1 unit Timbangan digital; 1 bungkus plastik klip besar berisi kristal (brutto 31,30 gram); 1 bungkus plastik klip sedang berisi kristal (brutto 5,88 gram); 1 bungkus plastik klip sedang berisi kristal (brutto 1 gram); 1 bungkus plastik klip sedang berisi kristal (brutto 1,20 gram); 1 bungkus plastik klip sedang berisi 4 bungkus plastik kristal (brutto total 1,22 gram); Total brutto 40,60 gram, netto 35,5373 gram",putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,2,Zaki,Zaki,verified
+034,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah dalam hal pemberantasan tindak pidana narkotika,putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,24,Zaki,Zaki,verified
+034,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa bersikap sopan di persidangan; Terdakwa memberikan keterangan secara terus terang; Terdakwa menyesali perbuatannya dan berjanji untuk tidak mengulangi lagi di masa yang akan datang",putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,24,Zaki,Zaki,verified
+034,sourcePages,"1,2,3,4,14,23,24,25,26",putusan_1275_pid.sus_2017_pn_.jkt_utr_20261110213416.pdf,"1,2,3,4,14,23,24,25,26",Zaki,Zaki,verified
+035,035,caseId,035,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,1,Zaki,Zaki,verified
+035,nomorPerkara,1204/Pid.Sus/2019/PN Jkt.Utr,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,1,Zaki,Zaki,verified
+035,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,1,Zaki,Zaki,verified
+035,tanggalPutusan,2019-12-10,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,13,Zaki,Zaki,verified
+035,terdakwaKode,MH,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,1,Zaki,Zaki,verified
+035,jenisNarkotika,Shabu (Metamfetamina),putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,2,Zaki,Zaki,verified
+035,beratBarangBuktiGram,0.7835,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,2,Zaki,Zaki,verified
+035,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,3,Zaki,Zaki,verified
+035,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,12,Zaki,Zaki,verified
+035,tuntutanBulan,90,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,2,Zaki,Zaki,verified
+035,vonisBulan,72,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,12,Zaki,Zaki,verified
+035,dendaRupiah,1000000000,putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,12,Zaki,Zaki,verified
+035,barangBukti,"1 buah dompet merah muda berisi 2 bungkus plastik klip kristal putih (brutto 1,06 gram, netto 0,7835 gram); 1 unit timbangan digital",putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,2,Zaki,Zaki,verified
+035,keadaanMemberatkan,"Perbuatan terdakwa tidak mendukung program Pemerintah dalam pemberantasan peredaran Narkotika; Perbuatan terdakwa meresahkan masyarakat",putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,12,Zaki,Zaki,verified
+035,keadaanMeringankan,"Terdakwa bersikap sopan selama persidangan dan menyesali perbuatannya",putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,12,Zaki,Zaki,verified
+035,sourcePages,"1,2,3,4,7,11,12,13",putusan_1204_pid.sus_2019_pn_jkt.utr_20261110213325.pdf,"1,2,3,4,7,11,12,13",Zaki,Zaki,verified
+036,caseId,036,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+036,nomorPerkara,1196/PID.SUS/2018/PN.JKT.UTR,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+036,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+036,tanggalPutusan,2019-02-11,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,22,Zaki,Zaki,verified
+036,terdakwaKode,S,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+036,jenisNarkotika,Shabu (Metamfetamina),putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+036,beratBarangBuktiGram,"2.3728 gram",putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+036,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+036,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,21,Zaki,Zaki,verified
+036,tuntutanBulan,84,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+036,vonisBulan,60,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,22,Zaki,Zaki,verified
+036,dendaRupiah,1000000000,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,22,Zaki,Zaki,verified
+036,barangBukti,"1 buah timbangan elektrik merk Sonic, 1 kantong plastik, 4 lembar uang kertas (3x Rp100.000, 1x Rp50.000)",putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+036,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan narkotika,putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,21,Zaki,Zaki,verified
+036,keadaanMeringankan,"Terdakwa bersikap sopan di depan persidangan; Terdakwa belum pernah dihukum",putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,21,Zaki,Zaki,verified
+036,sourcePages,"1,2,3,4,21,22",putusan_1196_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,21,22",Zaki,Zaki,verified
+037,caseId,037,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+037,nomorPerkara,1177/Pid.Sus/2019/PN Jkt.Utr,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+037,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+037,tanggalPutusan,2019-12-10,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+037,terdakwaKode,JP-EP,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+037,jenisNarkotika,Shabu (Metamfetamina),putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+037,beratBarangBuktiGram,"9.317",putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,2,Albar,Albar,verified
+037,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) Jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+037,pasalTerbukti,Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+037,tuntutanBulan,108,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+037,vonisBulan,96,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+037,dendaRupiah,1000000000,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+037,barangBukti,"1 unit handphone merek Samsung warna putih + simcard, 1 unit handphone merek Oppo warna rose gold + simcard",putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+037,keadaanMemberatkan,Perbuatan para Terdakwa tidak mendukung upaya pemerintah dalam memberantas peredaran dan penyalahgunaan narkotika,putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+037,keadaanMeringankan,"Para Terdakwa bersikap sopan dalam persidangan; Para Terdakwa mengakui terus terang perbuatannya",putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+037,sourcePages,"1,2,3,4,13,14,15",putusan_1177_pid.sus_2019_pn_jkt_utr.pdf,"1,2,3,4,13,14,15",Zaki,Zaki,verified
+038,caseId,038,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+038,nomorPerkara,1176/Pid.Sus/2018/PN Jkt.Utr,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+038,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+038,tanggalPutusan,2019-01-07,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,16,Zaki,Zaki,verified
+038,terdakwaKode,AF,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+038,jenisNarkotika,Shabu (Metamfetamina),putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+038,beratBarangBuktiGram,"2.3379",putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+038,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+038,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+038,tuntutanBulan,84,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+038,vonisBulan,78,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,16,Zaki,Zaki,verified
+038,dendaRupiah,1000000000,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,16,Zaki,Zaki,verified
+038,barangBukti,-,putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+038,keadaanMemberatkan,"Perbuatan terdakwa tidak sejalan dengan program pemerintah memberantas tindak pidana narkotika; Terdakwa andil merusak generasi muda",putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+038,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa sopan dan mengakui perbuatannya",putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+038,sourcePages,"1,2,3,15,16",putusan_1176_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,15,16",Zaki,Zaki,verified
+039,caseId,039,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+039,nomorPerkara,1287/Pid.Sus/2018/PN.Jkt.Utr.,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+039,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+039,tanggalPutusan,2019-01-08,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,21,Zaki,Zaki,verified
+039,terdakwaKode,H,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+039,jenisNarkotika,Ganja (Tanaman),putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+039,beratBarangBuktiGram,"77.3642",putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+039,pasalDakwaan,"Pertama: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+039,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,20,Zaki,Zaki,verified
+039,tuntutanBulan,84,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+039,vonisBulan,72,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,21,Zaki,Zaki,verified
+039,dendaRupiah,1000000000,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,21,Zaki,Zaki,verified
+039,barangBukti,"1 unit HP merk XIAOMI warna hitam berikut simcard; 2 lembar uang pecahan Rp. 50.000,- (senilai Rp. 100.000,-)",putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+039,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan Narkotika,putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,20,Zaki,Zaki,verified
+039,keadaanMeringankan,"Terdakwa bersikap sopan dipersidangan; Terdakwa berterus terang dipersidangan; Terdakwa belum pernah dihukum",putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,20,Zaki,Zaki,verified
+039,sourcePages,"1,2,3,4,5,19,20,21",putusan_1287_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,5,19,20,21",Zaki,Zaki,verified
+040,caseId,040,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+040,nomorPerkara,1300/Pid. Sus/2018/PN Jkt. Utr.,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+040,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+040,tanggalPutusan,2019-01-29,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,19,Zaki,Zaki,verified
+040,terdakwaKode,Y,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+040,jenisNarkotika,Shabu (Metamfetamina),putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+040,beratBarangBuktiGram,"0.1341 gram",putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+040,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+040,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,18,Zaki,Zaki,verified
+040,tuntutanBulan,96,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+040,vonisBulan,78,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,19,Zaki,Zaki,verified
+040,dendaRupiah,800000000,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,19,Zaki,Zaki,verified
+040,barangBukti,"1 buah Handphone merk Samsung warna Gold berikut Simcard",putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+040,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah tentang pemberantasan Narkoba,putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,18,Zaki,Zaki,verified
+040,keadaanMeringankan,"Terdakwa bersikap sopan dan mengaku terus terang sehingga memudahkan jalannya persidangan; Terdakwa merasa bersalah dan menyesal serta berjanji tidak akan mengulanginya lagi; Terdakwa mempunyai tanggungan keluarga",putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,18,Zaki,Zaki,verified
+040,sourcePages,"1,2,3,4,5,17,18,19",putusan_1300_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,5,17,18,19",Zaki,Zaki,verified
+041,caseId,041,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+041,nomorPerkara,1336/Pid.Sus/2018/PN.Jkt.Utr.,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+041,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+041,tanggalPutusan,2018-02-20,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+041,terdakwaKode,A,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+041,jenisNarkotika,Shabu (Metamfetamina),putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+041,beratBarangBuktiGram,"0.4132",putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+041,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+041,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+041,tuntutanBulan,96,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+041,vonisBulan,72,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+041,dendaRupiah,1000000000,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+041,barangBukti,-,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+041,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah yang sedang gencar memberantas penyalahgunaan Narkotika,putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+041,keadaanMeringankan,"Terdakwa mengaku terus terang sehingga tidak mempersulit jalannya persidangan; Terdakwa belum pernah dihukum; Terdakwa bersikap sopan saat dipersidangan",putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+041,sourcePages,"1,2,3,4,12,13,14",putusan_1336_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,12,13,14",Zaki,Zaki,verified
+042,caseId,042,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+042,nomorPerkara,1388/Pid.Sus/2018/PN.Jkt.Utr.,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+042,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+042,tanggalPutusan,2019-03-21,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,34,Zaki,Zaki,verified
+042,terdakwaKode,A,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+042,jenisNarkotika,Ekstasi (MDMA / Metilendioksimetamfetamina),putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+042,beratBarangBuktiGram,"8.3568",putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+042,pasalDakwaan,"Primair: Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Lebih Subsidair: Pasal 131 UU No. 35 Tahun 2009 tentang Narkotika",putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+042,pasalTerbukti,Pasal 131 UU No. 35 Tahun 2009 tentang Narkotika,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,33,Zaki,Zaki,verified
+042,tuntutanBulan,12,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+042,vonisBulan,12,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,34,Zaki,Zaki,verified
+042,dendaRupiah,0,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,34,Zaki,Zaki,verified
+042,barangBukti,"1 HP merek Apple iPhone 7 warna hitam beserta simcard; 1 Buku Tabungan Bank Central Asia No. Rekening 1611135675 atas nama Arwinsyah beserta Kartu ATM BCA",putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+042,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah yang sedang gencar memberantas penyalahgunaan Narkotika,putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,33,Zaki,Zaki,verified
+042,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya; Terdakwa bersikap sopan dipersidangan",putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,33,Zaki,Zaki,verified
+042,sourcePages,"1,2,3,4,5,6,32,33,34",putusan_1388_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,5,6,32,33,34",Zaki,Zaki,verified
+043,caseId,043,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+043,nomorPerkara,1438/Pid.Sus/2017/PN.Jkt.Utr.,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+043,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+043,tanggalPutusan,2018-02-13,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+043,terdakwaKode,HMC,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+043,jenisNarkotika,Shabu (Metamfetamina),putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+043,beratBarangBuktiGram,"0.4253",putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,2,Albar,Albar,verified
+043,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+043,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+043,tuntutanBulan,84,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+043,vonisBulan,66,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+043,dendaRupiah,1000000000,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+043,barangBukti,-,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+043,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah tentang pemberantasan Narkotika,putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+043,keadaanMeringankan,"Terdakwa bersikap sopan dan mengaku terus terang sehingga memudahkan jalannya persidangan; Terdakwa merasa bersalah dan menyesal serta berjanji tidak akan mengulanginya lagi; Terdakwa belum pernah dihukum",putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+043,sourcePages,"1,2,3,4,12,13",putusan_1438_pid.sus_2017_pn_jkt_utr.pdf,"1,2,3,4,12,13",Zaki,Zaki,verified
+044,caseId,044,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+044,nomorPerkara,1470/Pid.Sus/2018/PN Jkt Utr,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+044,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+044,tanggalPutusan,2019-02-06,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+044,terdakwaKode,MS,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+044,jenisNarkotika,Shabu (Metamfetamina),putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+044,beratBarangBuktiGram,"1.1973",putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+044,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika",putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+044,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+044,tuntutanBulan,96,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+044,vonisBulan,72,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+044,dendaRupiah,1000000000,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+044,barangBukti,"1 unit handphone merk XIAOMI warna hitam putih dengan kartu XL dan TRI; plester putih",putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+044,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan Narkotika,putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+044,keadaanMeringankan,"Terdakwa sopan dipersidangan sehingga memperlancar jalannya persidangan; Terdakwa menyesal dan mengakui terus terang perbuatannya di persidangan; Terdakwa belum pernah dihukum",putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+044,sourcePages,"1,2,3,4,9,13,14,15",putusan_1470_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,9,13,14,15",Zaki,Zaki,verified
+045,caseId,045,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,1,Zaki,Zaki,verified
+045,nomorPerkara,1487/Pid.B/2012/PN.JKT.UT,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,1,Zaki,Zaki,verified
+045,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,1,Zaki,Zaki,verified
+045,tanggalPutusan,2014-02-25,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,15,Zaki,Zaki,verified
+045,terdakwaKode,S,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,1,Zaki,Zaki,verified
+045,jenisNarkotika,Ganja (Tanaman),putusan_1487_pid.b_2012_pn_jkt_ut.pdf,2,Zaki,Zaki,verified
+045,beratBarangBuktiGram,"173,6435",putusan_1487_pid.b_2012_pn_jkt_ut.pdf,2,Albar,Albar,verified
+045,pasalDakwaan,"Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1487_pid.b_2012_pn_jkt_ut.pdf,3,Zaki,Zaki,verified
+045,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,14,Zaki,Zaki,verified
+045,tuntutanBulan,84,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,2,Zaki,Zaki,verified
+045,vonisBulan,60,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,15,Zaki,Zaki,verified
+045,dendaRupiah,1000000000,putusan_1487_pid.b_2012_pn_jkt_ut.pdf,15,Zaki,Zaki,verified
+045,barangBukti,"1 buah handphone merek Smartfren warna hitam tipe E329",putusan_1487_pid.b_2012_pn_jkt_ut.pdf,2,Zaki,Zaki,verified
+045,keadaanMemberatkan,"Perbuatan terdakwa dilakukan pada saat Pemerintah sedang giat-giatnya melaksanakan pemberantasan penyalahgunaan Narkotika; Perbuatan mereka meresahkan masyarakat",putusan_1487_pid.b_2012_pn_jkt_ut.pdf,14,Zaki,Zaki,verified
+045,keadaanMeringankan,"Terdakwa bersikap sopan dipersidangan dan mengakui terus terang perbuatannya; Terdakwa menyatakan penyesalannya",putusan_1487_pid.b_2012_pn_jkt_ut.pdf,14,Zaki,Zaki,verified
+045,sourcePages,"2,3,4,5,14,15",putusan_1487_pid.b_2012_pn_jkt_ut.pdf,"2,3,4,5,14,15",Zaki,Zaki,verified
+046,caseId,046,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+046,nomorPerkara,1500/Pid.Sus/2018/PN.Jkt.Utr.,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+046,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+046,tanggalPutusan,2019-03-11,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+046,terdakwaKode,JF,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+046,jenisNarkotika,Shabu (Metamfetamina),putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+046,beratBarangBuktiGram,"0.7812",putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+046,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+046,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+046,tuntutanBulan,84,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+046,vonisBulan,66,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+046,dendaRupiah,800000000,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+046,barangBukti,"1 unit sepeda motor Honda Beat warna merah muda Nopol B-6297-UPW",putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+046,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah memberantas penyalahgunaan Narkotika,putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+046,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa berperilaku sopan saat dipersidangan",putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+046,sourcePages,"1,2,3,4,11,12,13",putusan_1500_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,11,12,13",Zaki,Zaki,verified
+047,caseId,047,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+047,nomorPerkara,1510/Pid.Sus/2017/PN Jkt.Utr.,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+047,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+047,tanggalPutusan,2018-01-31,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+047,terdakwaKode,S,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+047,jenisNarkotika,Shabu (Metamfetamina),putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+047,beratBarangBuktiGram,"0,.3077",putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,2,Albar,Albar,verified
+047,pasalDakwaan,"Pertama: Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+047,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+047,tuntutanBulan,84,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+047,vonisBulan,60,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+047,dendaRupiah,1000000000,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+047,barangBukti,"1 buah tas perempuan warna pink-putih beserta isinya, 1 buah bekas pipet, 2 buah korek api",putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+047,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran penyalahgunaan narkotika,putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+047,keadaanMeringankan,"Terdakwa belum pernah dihukum; Terdakwa sopan dipersidangan; Terdakwa menyesali dan mengakui perbuatannya",putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+047,sourcePages,"1,2,3,4,9,14,15",putusan_1510_pid.sus_2017_pn_jkt_utr.pdf,"1,2,3,4,9,14,15",Zaki,Zaki,verified
+048,caseId,048,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+048,nomorPerkara,1526/Pid.Sus/2018/PN.Jkt.Utr.,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+048,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+048,tanggalPutusan,2019-04-08,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,16,Zaki,Zaki,verified
+048,terdakwaKode,DN,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+048,jenisNarkotika,Shabu (Metamfetamina),putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+048,beratBarangBuktiGram,"3.6871",putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+048,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+048,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+048,tuntutanBulan,102,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+048,vonisBulan,84,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,16,Zaki,Zaki,verified
+048,dendaRupiah,1000000000,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,16,Zaki,Zaki,verified
+048,barangBukti,"1 unit timbangan digital; 1 unit Handphone Oppo",putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+048,keadaanMemberatkan,Perbuatan Terdakwa tidak sejalan dengan program Pemerintah dalam pemberantasan narkotika,putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+048,keadaanMeringankan,"Terdakwa bersikap sopan, mengakui dan menyesali perbuatannya; Terdakwa berjanji tidak akan mengulangi lagi; Terdakwa belum pernah dihukum",putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+048,sourcePages,"1,2,3,4,15,16",putusan_1526_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,15,16",Zaki,Zaki,verified
+049,caseId,049,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+049,nomorPerkara,1529/Pid.Sus/2018/PN Jkt.Utr,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+049,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+049,tanggalPutusan,2019-02-07,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+049,terdakwaKode,MI,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+049,jenisNarkotika,Shabu (Metamfetamina),putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+049,beratBarangBuktiGram,"1.7641",putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+049,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+049,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+049,tuntutanBulan,120,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+049,vonisBulan,84,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+049,dendaRupiah,1000000000,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,15,Zaki,Zaki,verified
+049,barangBukti,"1 bungkus rokok bekas Gudang Garam Filter",putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+049,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan Narkotika,putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+049,keadaanMeringankan,"Terdakwa mengakui dengan terus terang perbuatannya dan sopan dipersidangan; Terdakwa menyesali perbuatannya; Terdakwa belum pernah dihukum",putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,14,Zaki,Zaki,verified
+049,sourcePages,"1,2,3,4,13,14,15",putusan_1529_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,13,14,15",Zaki,Zaki,verified
+050,caseId,050,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+050,nomorPerkara,1531/Pid.Sus/2018/PN Jkt.Utr,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+050,pengadilan,Pengadilan Negeri Jakarta Utara,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+050,tanggalPutusan,2019-03-25,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+050,terdakwaKode,MR,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,1,Zaki,Zaki,verified
+050,jenisNarkotika,Shabu (Metamfetamina),putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+050,beratBarangBuktiGram,"2.6628",putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,2,Albar,Albar,verified
+050,pasalDakwaan,"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika (alternatif)",putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,3,Zaki,Zaki,verified
+050,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+050,tuntutanBulan,96,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+050,vonisBulan,84,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+050,dendaRupiah,1000000000,putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,13,Zaki,Zaki,verified
+050,barangBukti,"1 bungkus rokok Djarum Super; 1 unit HP merek Nokia warna hitam beserta simcard 3",putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,2,Zaki,Zaki,verified
+050,keadaanMemberatkan,"Perbuatan Terdakwa meresahkan masyarakat; Terdakwa tidak mendukung program pemerintah dalam hal pemberantasan Narkotika",putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+050,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya sehingga memperlancar jalannya persidangan; Terdakwa menyesali dan berjanji tidak akan mengulangi perbuatannya",putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,12,Zaki,Zaki,verified
+050,sourcePages,"1,2,3,4,11,12,13",putusan_1531_pid.sus_2018_pn_jkt_utr.pdf,"1,2,3,4,11,12,13",Zaki,Zaki,verified
