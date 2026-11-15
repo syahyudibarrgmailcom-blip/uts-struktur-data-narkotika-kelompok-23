@@ -1,17 +1,18 @@
 package view;
 
-import controller.PanelAnalisisData;
 import controller.PutusanController;
+import controller.CSVWriter;
+import controller.PanelAnalisisData;
+import controller.ActivityLogger;
 import model.Putusan;
 import struktur.DynamicArray;
-import controller.ActivityLogger;
-import javax.swing.table.DefaultTableModel;
+
 import javax.swing.*;
+import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.time.LocalDate;
-import controller.CSVWriter;
 
 public class MainFrame extends JFrame {
     private PutusanController controller;
@@ -20,7 +21,6 @@ public class MainFrame extends JFrame {
     private CardLayout cardLayout;
     private JPanel sidebarPanel; 
     
-    // Variabel untuk menyimpan referensi panel agar bisa di-refresh
     private PanelAnalisisData panelAnalisis; 
 
     // Warna Tema
@@ -46,12 +46,11 @@ public class MainFrame extends JFrame {
         mainContentPanel.add(createTambahPutusanPanel(), "TambahPutusan");
         mainContentPanel.add(createFilterPanel(), "Filter");
         
-        // Inisialisasi panel analisis
         panelAnalisis = new PanelAnalisisData(controller);
         mainContentPanel.add(panelAnalisis, "Analisis"); 
         
         mainContentPanel.add(createRiwayatPanel(), "Riwayat");
-        mainContentPanel.add(createEksporPanel(), "Ekspor");
+        mainContentPanel.add(createEksporPanel(), "Ekspor"); // <--- FITUR EKSPOR
 
         sidebarPanel = createSidebar();
         add(sidebarPanel, BorderLayout.WEST);
@@ -117,12 +116,9 @@ public class MainFrame extends JFrame {
                 @Override
                 public void actionPerformed(ActionEvent e) {
                     cardLayout.show(mainContentPanel, cardName);
-                    
-                    // Refresh chart saat menu Analisis diklik
                     if (cardName.equals("Analisis")) {
                         panelAnalisis.refreshData();
                     }
-
                     for (Component c : sidebarPanel.getComponents()) {
                         if (c instanceof JButton) {
                             c.setBackground(Color.WHITE);
@@ -161,7 +157,6 @@ public class MainFrame extends JFrame {
         JPanel centerPanel = new JPanel(new BorderLayout(0, 20));
         centerPanel.setBackground(Color.WHITE);
 
-        // Tabel Data Terbaru
         String[] columns = {"No", "Nomor Perkara", "Pengadilan", "Jenis Narkotika", "Vonis (Bulan)", "Denda (Rp)", "Tanggal Putusan"};
         DefaultTableModel model = new DefaultTableModel(columns, 0);
         DynamicArray<Putusan> data = controller.getAllData();
@@ -188,7 +183,7 @@ public class MainFrame extends JFrame {
     }
 
     // =========================================================================
-    // 3. PANEL DATA PUTUSAN (TABEL UTAMA)
+    // 3. PANEL DATA PUTUSAN
     // =========================================================================
     private JPanel createDataPutusanPanel() {
         JPanel panel = new JPanel(new BorderLayout(20, 20));
@@ -295,16 +290,14 @@ public class MainFrame extends JFrame {
                 ); 
                 
                 controller.tambahData(putusanBaru); 
+                ActivityLogger.log("Menambahkan data putusan baru: " + nomor); // LOG
                 JOptionPane.showMessageDialog(panel, "Data berhasil disimpan!", "Sukses", JOptionPane.INFORMATION_MESSAGE);
                 
-                // Refresh UI
                 panelAnalisis.refreshData();
                 
-                // Kosongkan form
                 txtNomorPerkara.setText(""); txtTerdakwa.setText(""); txtJenisNarkotika.setText("");
                 txtVonis.setText(""); txtDenda.setText("");
                 
-                // Pindah ke tabel data
                 cardLayout.show(mainContentPanel, "DataPutusan");
 
             } catch (Exception ex) {
@@ -350,7 +343,6 @@ public class MainFrame extends JFrame {
         tablePanel.add(new JScrollPane(table), BorderLayout.CENTER);
         mainPanel.add(tablePanel, BorderLayout.CENTER);
 
-        // Fungsi isi tabel
         Runnable isiTabelAwal = () -> {
             model.setRowCount(0); 
             DynamicArray<Putusan> semuaData = controller.getAllData();
@@ -387,6 +379,7 @@ public class MainFrame extends JFrame {
                     });
                 }
             }
+            ActivityLogger.log("Mencari data: " + keyword); // LOG
         });
 
         btnReset.addActionListener(e -> {
@@ -397,26 +390,21 @@ public class MainFrame extends JFrame {
         return mainPanel;
     }
 
-        // =========================================================================
-    // 5.5 PANEL RIWAYAT AKTIVITAS
+    // =========================================================================
+    // 6. PANEL RIWAYAT AKTIVITAS
     // =========================================================================
     private JPanel createRiwayatPanel() {
         JPanel panel = new JPanel(new BorderLayout(20, 20));
         panel.setBackground(Color.WHITE);
         panel.setBorder(BorderFactory.createEmptyBorder(20, 30, 20, 30));
 
-        // Header
-        JLabel title = new JLabel("<html><h1 style='margin:0;'>Riwayat Aktivitas</h1>"
-                + "<p style='margin:0; color:gray;'>Catatan aktivitas pengguna di dalam sistem</p></html>");
+        JLabel title = new JLabel("<html><h1 style='margin:0;'>Riwayat Aktivitas</h1><p style='margin:0; color:gray;'>Catatan aktivitas pengguna di dalam sistem</p></html>");
         panel.add(title, BorderLayout.NORTH);
 
-        // Tabel
         String[] columns = {"No", "Waktu & Aktivitas"};
         DefaultTableModel model = new DefaultTableModel(columns, 0) {
             @Override
-            public boolean isCellEditable(int row, int column) {
-                return false; // Tabel tidak bisa diedit manual
-            }
+            public boolean isCellEditable(int row, int column) { return false; }
         };
         JTable table = new JTable(model);
         table.setRowHeight(35);
@@ -427,29 +415,25 @@ public class MainFrame extends JFrame {
         scrollPane.setBorder(BorderFactory.createLineBorder(BORDER_COLOR));
         panel.add(scrollPane, BorderLayout.CENTER);
 
-        // Tombol Clear Log
         JPanel bottomPanel = new JPanel(new FlowLayout(FlowLayout.RIGHT));
         bottomPanel.setBackground(Color.WHITE);
         
         JButton btnClear = new JButton("Hapus Semua Riwayat");
-        btnClear.setBackground(new Color(239, 68, 68)); // Merah
+        btnClear.setBackground(new Color(239, 68, 68));
         btnClear.setForeground(Color.WHITE);
         btnClear.setFont(new Font("SansSerif", Font.BOLD, 12));
         
         btnClear.addActionListener(e -> {
-            int konfirmasi = JOptionPane.showConfirmDialog(panel, 
-                "Apakah Anda yakin ingin menghapus semua riwayat?", "Konfirmasi", JOptionPane.YES_NO_OPTION);
+            int konfirmasi = JOptionPane.showConfirmDialog(panel, "Apakah Anda yakin ingin menghapus semua riwayat?", "Konfirmasi", JOptionPane.YES_NO_OPTION);
             if (konfirmasi == JOptionPane.YES_OPTION) {
                 ActivityLogger.clearLogs();
-                model.setRowCount(0); // Kosongkan tabel
+                model.setRowCount(0);
             }
         });
         
         bottomPanel.add(btnClear);
         panel.add(bottomPanel, BorderLayout.SOUTH);
 
-        // Fungsi untuk memuat data ke tabel setiap kali menu ini dibuka
-        // (Catatan: Akan lebih optimal jika kita punya method refresh, tapi ini cukup untuk saat ini)
         table.addAncestorListener(new javax.swing.event.AncestorListener() {
             @Override
             public void ancestorAdded(javax.swing.event.AncestorEvent event) {
@@ -467,7 +451,11 @@ public class MainFrame extends JFrame {
 
         return panel;
     }
-        private JPanel createEksporPanel() {
+
+    // =========================================================================
+    // 7. PANEL EKSPOR DATA
+    // =========================================================================
+    private JPanel createEksporPanel() {
         JPanel panel = new JPanel(new GridBagLayout());
         panel.setBackground(Color.WHITE);
         panel.setBorder(BorderFactory.createEmptyBorder(20, 30, 20, 30));
@@ -499,33 +487,13 @@ public class MainFrame extends JFrame {
                 
                 if (sukses) {
                     JOptionPane.showMessageDialog(panel, "Data berhasil diekspor ke:\n" + path, "Sukses", JOptionPane.INFORMATION_MESSAGE);
-                    // Catat log aktivitas
-                    ActivityLogger.log("Mengekspor data putusan ke CSV: " + path);
+                    ActivityLogger.log("Mengekspor data putusan ke CSV: " + path); // LOG
                 } else {
                     JOptionPane.showMessageDialog(panel, "Gagal mengekspor data.", "Error", JOptionPane.ERROR_MESSAGE);
                 }
             }
         });
 
-        return panel;
-    }
-
-    // =========================================================================
-    // 6. PANEL PLACEHOLDER
-    // =========================================================================
-    private JPanel createPlaceholderPanel(String title, String message) {
-        JPanel panel = new JPanel(new BorderLayout());
-        panel.setBackground(Color.WHITE);
-        panel.setBorder(BorderFactory.createEmptyBorder(20, 30, 20, 30));
-        
-        JLabel lblTitle = new JLabel("<html><h1 style='margin:0;'>" + title + "</h1></html>");
-        panel.add(lblTitle, BorderLayout.NORTH);
-        
-        JLabel lblMessage = new JLabel(message, SwingConstants.CENTER);
-        lblMessage.setFont(new Font("SansSerif", Font.PLAIN, 18));
-        lblMessage.setForeground(Color.GRAY);
-        panel.add(lblMessage, BorderLayout.CENTER);
-        
         return panel;
     }
 }
