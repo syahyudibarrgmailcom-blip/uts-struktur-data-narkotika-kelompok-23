@@ -3,30 +3,37 @@ package controller;
 import model.Putusan;
 import struktur.DynamicArray;
 import java.io.FileWriter;
-import java.io.IOException;
+import java.io.PrintWriter;
 
 public class CSVWriter {
-    public static boolean simpanKeCSV(DynamicArray<Putusan> data, String filePath) {
-        try (FileWriter writer = new FileWriter(filePath)) {
+    public void writeCSV(DynamicArray<Putusan> data, String filePath) {
+        try (PrintWriter pw = new PrintWriter(new FileWriter(filePath))) {
             // Tulis Header
-            writer.append("Case ID,Nomor Perkara,Pengadilan,Tanggal,Terdakwa,Jenis Narkotika,Vonis (Bulan),Denda (Rp)\n");
-
-            // Tulis Data
+            pw.println("caseId,nomorPerkara,pengadilan,tanggalPutusan,terdakwaKode,jenisNarkotika,beratBarangBuktiGram,pasalDakwaan,pasalTerbukti,tuntutanBulan,vonisBulan,dendaRupiah,barangBukti,keadaanMemberatkan,keadaanMeringankan,sourcePages");
+            
             for (int i = 0; i < data.size(); i++) {
                 Putusan p = data.get(i);
-                writer.append(p.getCaseId()).append(",")
-                      .append(p.getNomorPerkara()).append(",")
-                      .append(p.getPengadilan()).append(",")
-                      .append(p.getTanggalPutusan().toString()).append(",")
-                      .append(p.getTerdakwaKode()).append(",")
-                      .append(p.getJenisNarkotika()).append(",")
-                      .append(String.valueOf(p.getVonisBulan())).append(",")
-                      .append(String.valueOf(p.getDendaRupiah())).append("\n");
+                pw.printf("\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",%s,\"%s\",\"%s\",%d,%d,%d,\"%s\",\"%s\",\"%s\",\"%s\"\n",
+                    p.getCaseId(),
+                    p.getNomorPerkara(),
+                    p.getPengadilan(),
+                    p.getTanggalPutusan().toString(),
+                    p.getTerdakwaKode(),
+                    p.getJenisNarkotika(),
+                    p.getBeratBarangBuktiGram(),
+                    p.getPasalDakwaan(),
+                    p.getPasalTerbukti(),
+                    p.getTuntutanBulan(),
+                    p.getVonisBulan(),
+                    p.getDendaRupiah(),
+                    p.getBarangBukti(),
+                    p.getKeadaanMemberatkan(),
+                    p.getKeadaanMeringankan(),
+                    p.getSourcePages()
+                );
             }
-            return true;
-        } catch (IOException e) {
-            System.out.println("Gagal ekspor: " + e.getMessage());
-            return false;
+        } catch (Exception e) {
+            System.out.println("Error menyimpan CSV: " + e.getMessage());
         }
     }
 }
